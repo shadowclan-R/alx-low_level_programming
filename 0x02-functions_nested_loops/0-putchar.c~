@@ -1,0 +1,10 @@
+#include <stdio.h>
+/* this
+ *code 
+ *print "putchar"
+ */
+int main (void)
+{
+  ptinf("_putchar/n");
+  return(0)
+}
