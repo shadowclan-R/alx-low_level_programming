@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * befor main - function executed before main
- * Return: void.
+ * bmain - function executed before main
+ * Return: no return.
  */
 
 void __attribute__ ((constructor)) bmain()
